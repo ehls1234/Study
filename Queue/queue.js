@@ -4,7 +4,11 @@
 데이터를 집어넣을 수 있는 선형(linear) 자료형입니다.
 먼저 집어넣은 데이터가 먼저 나옵니다. 
 
-이 특징을 줄여서 FIFO(First In First Out)라고 부릅니다.
+이 특징을 줄여서 
+FIFO(First In First Out)
+OR
+LILO(Last In, Last Out)
+라고 부릅니다.
 
 데이터를 집어넣는 enqueue, 
 데이터를 추출하는 dequeue 등의 작업을 할 수 있습니다.
